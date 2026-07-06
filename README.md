@@ -27,7 +27,7 @@ http://tictactoe-game-2026.netlify.app
 
 ## 📸 Screenshots
 
-![game Screenshot](./Screenshot.png)
+![Tic Tac Toe Screenshot](./Screenshot.png)
 
 ## 📌 Future Improvements
 
